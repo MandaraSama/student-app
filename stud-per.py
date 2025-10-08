@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
+import scikit-learn
+import sklearn.preprocessing
 from sklearn.preprocessing import StandardScaler,LabelEncoder
 
 
